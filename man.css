@@ -1,0 +1,46 @@
+.heading{
+	text-align: center;
+	color: white;
+}
+img {
+ 
+ border-radius: 50px;
+ display: block;
+ margin-left: auto;
+margin-right: auto;
+width: 100px;
+height: 100px;
+
+}
+
+
+body{
+	background: rgb(56, 56, 56);
+	color: white;
+	max-width: 500px;
+	margin: auto;
+}
+.tab{
+	background-color:white;
+	width: 200px
+	border: 5px;
+	border-style: solid;
+	border-color: white;
+	padding:10px;
+	margin: 8px;
+	word-wrap: normal;	
+	color: black;
+}
+.tab:hover{
+	background-color: rgb(56, 56, 56);
+	
+
+}
+
+
+a:active, a:link, a:visited {
+	    text-decoration: none;
+	    color: black;
+
+       }
+
